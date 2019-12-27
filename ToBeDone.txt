@@ -1,0 +1,11 @@
+1.Eyetracking part :
+	The code of Webcam needs to be modified.
+2.Speech to text part:
+	The asean accent needs to be added.
+3.Parents/Teachers section:
+	The questionair is not in the same page,It needs to be in the same page.
+4.Pdf convertor:
+	frontend : done
+	backend : done
+	Linking part needs to be asked.
+5.Blog is to be designed.

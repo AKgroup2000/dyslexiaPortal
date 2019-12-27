@@ -1,0 +1,66 @@
+body{
+  background-color: #5C276F;
+}
+#title {
+  color: #e8ecef;
+  font-size: 50px;
+  padding-left: 30px;
+}
+#main {
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: white;
+  margin-left: 20px;
+  margin-right:20px;
+  height: auto;
+  padding-bottom: 50px;
+}
+h1 {
+ color: #7c0432;
+ text-align: center;
+ font-size: 50px;
+ 
+ font-weight: bold;
+}
+h2 {
+  color: #7c0432;
+  text-align: center;
+  font-size: 40px;
+  
+}
+.start {
+  text-align: center;
+}
+button {
+  width: auto;
+  height: 40px;
+  background-color: #b19cd9;
+  font-size:20px;
+  color: #551a8B;
+}
+p{
+  color: black;
+  font-size: 40px;
+}
+#but{
+  text-align: right;
+}
+input {
+  width: 20px;
+  height: 20px;
+}
+span{
+  color:black	;
+  font-size: 30px;
+  padding-left: 40px;
+}
+#Score {
+  text-align: center;
+}
+h4 {
+  color: #4169e1;
+  font-size: 50px;
+  text-align: center;
+}
