@@ -6,4 +6,4 @@ This portal is designed for the people suffering from dyslexia.This is a one sto
 
 There are various other functionality which can be incorporated into this applications, which will be added into this in future commits.Please let me know if you have any idea to inhance this software so that we can have our impact on millions.
 
-Technology Used : Python(OpenCV), UI technology(Html,CSS,JS), Flask framework.
+__Technology Used__ : Python(OpenCV), UI technology(Html,CSS,JS), Flask framework.
