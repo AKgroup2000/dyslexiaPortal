@@ -8,3 +8,7 @@ There are various other functionality which can be incorporated into this applic
 
 __Technology Used__ : Python(OpenCV), UI technology(Html,CSS,JS), Flask framework.
 
+1. __Eye Tracking__ :
+OpenCV provides a training method or pretrained models that can be read using CV::CascadeClassifier::load method. We are here using pretrained Haarcascade model to detect faces and eyes in an image.
+
+Firstly cv::CascadeClassifier is created and the necessary XML file is loaded using the cv::CascadeClassifier::load method .Afterwards the detection is done using the cv::CascadeClassifier::detectMultiscale method, which return boundary rectangles for the detected face or eyes.
