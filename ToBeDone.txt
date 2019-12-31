@@ -9,4 +9,6 @@
 	frontend : done
 	backend : done
 	Linking part needs to be asked.
-5.Blog is to be designed.
+5.Blog is to be designed,which will educate parents,teachers or users on different aspects of this disorder.
+6.To add practice games or other activities to help them read or help them in controlling their eye movements.
+7.To add consultation page.
